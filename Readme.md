@@ -1,0 +1,1 @@
+Repositório com códigos em Python de exercícios da plataforma BeeCrowd.
